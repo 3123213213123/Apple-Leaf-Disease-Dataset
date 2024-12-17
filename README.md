@@ -20,3 +20,6 @@ type | train  | test
 frogeye leaf spot | 1200 | 300
 mosaic | 800 | 100 
 powdery mildew	|948 | 236
+rust |1200	|300
+scab |1200	|300
+healthy	|1200	|300
