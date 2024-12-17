@@ -1,4 +1,4 @@
-This dataset is the **apple leaf disease dataset**, which was
+This dataset is the ***apple leaf disease dataset***, which was
 collected in a real natural environment. Part of it is provided
 by the CVPR 2021 challenge (Plant Pathology 2021-FGVC8),
 while the rest is obtained from local orchards and classified
