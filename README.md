@@ -6,7 +6,7 @@ by plant protection experts. It comprises 8,084 images in six
 types, covering frogeye leaf spot, mosaic, powdery mildew,
 rust, scab, and healthy leaves. 
 
-# he sample size is as follows.
+### The sample size is as follows.
 
 type | train  | test
 ---- | ----- | ------  
